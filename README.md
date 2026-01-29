@@ -10,3 +10,5 @@ Contains details about the resources used for CA Foundation preparation
 * [Business Economics Study Material](https://www.icai.org/post/sm-foundation-p4-may2026)
 ## Consolidated Model Test Papers CA Foundation:
 * [MTP All Subjects](https://resource.cdn.icai.org/84774bos68243.pdf)
+## Revision Test Papers, Mock Test Papers, Past Year Questions:
+* [MTP, RTP, Past Yearquestions year-wise](https://www.vsijaipur.com/icai-ca-foundation-question-papers/)
