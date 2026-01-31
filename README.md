@@ -46,8 +46,7 @@
 | Set | Module Name | Study Material | Practice Resources |
 | :--- | :--- | :--- | :--- |
 | **Set A** | Corporate & Economic Laws | [📚 Download](https://www.icai.org/post/self-paced-online-modules-set-a-nset) | [📑 MTP Question](https://boslive.icai.org/education_content_modelTestPapers.php?c=Self-Paced%20Online%20Modules) |
-| **Set B** | Strat. Cost & Perf. Mgmt | [📚 Download](https://www.icai.org/post/self-paced-online-modules-set-b-nset) | [📙 Case Booklet](https://www.icai.org/post/self-paced-online-modules-nset) |
-
+| **Set B** | Strat. Cost & Perf. Mgmt | [📚 Download](https://www.icai.org/post/self-paced-online-modules-set-b-nset) | [📙 Case Booklet](https://resource.cdn.icai.org/84404bos68016.pdf) |
 ### **CA Final Core Subjects**
 | Paper | Subject | Study Material | Case Scenario Booklet |
 * **P1: Financial Reporting** — [Link](https://www.icai.org/post/sm-final-p1-may2026)| [MCQ Bank](https://resource.cdn.icai.org/84463bos68036p1.pdf)
